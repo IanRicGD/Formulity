@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulity</string>
+    <string name="titulo">Formulity</string>
+    <string name="version">Version 1.0</string>
+    <string name="creador">Creator: Ian Ricardo García Delgado</string>
+    <string name="imgformulaDes">formula</string>
+    <string name="imgSplashDes">Img Splash</string>
+    <string name="HintProv">Na</string>
+    <string name="textPrueba">NA</string>
+
+    <string-array name="opciones">
+        <item>Cylinder Volume</item>
+        <item>Cone Volume</item>
+        <item>Orthohedron Volume</item>
+    </string-array>
+
+    <string name="selec_form">Select a formula</string>
+    <string name="btn_calcular">Calculate</string>
+    <string name="tvCil_op1">r:</string>
+    <string name="etCil_op1">radio</string>
+    <string name="tvCil_op2">h:</string>
+    <string name="etCil_op2">height</string>
+    <string name="etVar1Cil_error">Enter radius</string>
+    <string name="etVar2Cil_error">Enter height</string>
+    <string name="tvCon_op1">r:</string>
+    <string name="etCon_op1">radio</string>
+    <string name="tvCon_op2">h:</string>
+    <string name="etCon_op2">height</string>
+    <string name="etVar1Con_error">Enter radius</string>
+    <string name="etVar2Con_error">Enter height</string>
+    <string name="tvOrt_op1">a:</string>
+    <string name="tvOrt_op2">b:</string>
+    <string name="tvOrt_op3">c:</string>
+    <string name="etOrt_op1">length</string>
+    <string name="etOrt_op2">width</string>
+    <string name="etOrt_op3">height</string>
+    <string name="etVar1Ort_error">Enter length</string>
+    <string name="etVar2Ort_error">Enter width</string>
+    <string name="etVar3Ort_error">Enter height</string>
+    <string name="stringMA2">The result of the formula:</string>
+    <string name="stringMA2_1">with parameters:</string>
+    <string name="stringMA2_2">is:</string>
+    <string name="stringMA2_3">%s:  %s</string>
+</resources>

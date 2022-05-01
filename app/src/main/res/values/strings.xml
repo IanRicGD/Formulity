@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Formulity</string>
+    <string name="titulo">Formulity</string>
+    <string name="version">Versión 1.0</string>
+    <string name="creador">Creador: Ian Ricardo García Delgado</string>
+    <string name="imgformulaDes">formula</string>
+    <string name="imgSplashDes">Img Splash</string>
+    <string name="HintProv">Na</string>
+    <string name="textPrueba">NA</string>
+
+    <string-array name="opciones">
+        <item>Volúmen Cilindro</item>
+        <item>Volúmen Cono</item>
+        <item>Volúmen Ortoedro</item>
+    </string-array>
+
+
+    <string name="selec_form">Selecciona una fórmula</string>
+    <string name="btn_calcular">Calcular</string>
+
+    <string name="tvCil_op1">r:</string>
+    <string name="etCil_op1">radio</string>
+    <string name="tvCil_op2">h:</string>
+    <string name="etCil_op2">altura</string>
+    <string name="etVar1Cil_error">Ingresa el radio</string>
+    <string name="etVar2Cil_error">Ingresa la altura</string>
+
+    <string name="tvCon_op1">r:</string>
+    <string name="etCon_op1">radio</string>
+    <string name="tvCon_op2">h:</string>
+    <string name="etCon_op2">altura</string>
+    <string name="etVar1Con_error">Ingresa el radio</string>
+    <string name="etVar2Con_error">Ingresa la altura</string>
+
+    <string name="tvOrt_op1">a:</string>
+    <string name="tvOrt_op2">b:</string>
+    <string name="tvOrt_op3">c:</string>
+    <string name="etOrt_op1">largo</string>
+    <string name="etOrt_op2">ancho</string>
+    <string name="etOrt_op3">altura</string>
+    <string name="etVar1Ort_error">Ingresa el largo</string>
+    <string name="etVar2Ort_error">Ingresa el ancho</string>
+    <string name="etVar3Ort_error">Ingresa la altura</string>
+
+    <string name="stringMA2">El resultado de la formula:</string>
+    <string name="stringMA2_1">con los parametros:</string>
+    <string name="stringMA2_2">es:</string>
+    <string name="stringMA2_3">%s:  %s</string>
+
+
+</resources>

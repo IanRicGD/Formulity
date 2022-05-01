@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulity</string>
+    <string name="titulo">Formulity</string>
+    <string name="version">version 1.0</string>
+    <string name="creador">Créateur : Ian Ricardo García Delgado</string>
+    <string name="imgformulaDes">formule</string>
+    <string name="imgSplashDes">Img Splash</string>
+    <string name="HintProv">Na</string>
+    <string name="textPrueba">NA</string>
+
+    <string-array name="opciones">
+        <item>Volume du cylindre</item>
+        <item>Volume du cône</item>
+        <item>Volume Orthohedron</item>
+    </string-array>
+
+    <string name="selec_form">Sélectionnez une formule</string>
+    <string name="btn_calcular">Calculer</string>
+    <string name="etCil_op1">radio</string>
+    <string name="tvCil_op1">r</string>
+    <string name="tvCil_op2">h:</string>
+    <string name="etCil_op2">hauteur</string>
+    <string name="etVar1Cil_error">Entrez le rayon</string>
+    <string name="etVar2Cil_error">Entrez la hauteur</string>
+    <string name="tvCon_op1">r:</string>
+    <string name="etCon_op1">radio</string>
+    <string name="tvCon_op2">h:</string>
+    <string name="etCon_op2">hauteur</string>
+    <string name="etVar1Con_error">Entrez le rayon</string>
+    <string name="etVar2Con_error">Entrez la hauteur</string>
+    <string name="tvOrt_op1">a:</string>
+    <string name="tvOrt_op2">b:</string>
+    <string name="tvOrt_op3">c:</string>
+    <string name="etOrt_op1">long</string>
+    <string name="etOrt_op2">largeur</string>
+    <string name="etOrt_op3">hauteur</string>
+    <string name="etVar1Ort_error">Entrez la longueur</string>
+    <string name="etVar2Ort_error">Entrez la largeur</string>
+    <string name="etVar3Ort_error">Entrez la hauteur</string>
+    <string name="stringMA2">Le résultat de la formule :</string>
+    <string name="stringMA2_1">avec les paramètres :</string>
+    <string name="stringMA2_2">en :</string>
+    <string name="stringMA2_3">%s:  %s</string>
+</resources>
