@@ -24,7 +24,7 @@ class MainActivity2 : AppCompatActivity() {
 
 
         when (opcion) {
-            "Volúmen Cilindro" -> {
+            "Volúmen Cilindro","Cylinder Volume","Volume du cylindre"-> {
                 with(binding){
                     tvPar1.text=opcion
                     tvPar2.text=getString(R.string.stringMA2_3,"r", parametro1.toString())
@@ -33,7 +33,7 @@ class MainActivity2 : AppCompatActivity() {
                     tvPar5.text=resultado
                 }
             }
-            "Volúmen Cono" -> {
+            "Volúmen Cono","Cone Volume","Volume du cône" -> {
                 with(binding){
                     tvPar1.text=opcion
                     tvPar2.text=getString(R.string.stringMA2_3,"r", parametro1.toString())
